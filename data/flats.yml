@@ -1,0 +1,97 @@
+seb:
+  owner_name: Sebastien Saunier
+  picture: images/card-paris.jpg
+  owner_picture: images/seb.jpg
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+  description: This apartment is a charming loft retreat that’s perfect for four people, located within a former convent overlooking a beautiful courtyard. It is distributed over several levels. Upon entering you will need to climb the stairs to get to the kitchen and from there you will arrive in the spacious living room with several sofas.
+  Accommodates: 4
+  Bathrooms:  2
+  Bed_type: Real bed
+  Bedrooms: 2
+  Beds: 2
+  Property_type: Apartement
+  Room_type: Entire home/apt
+romain:
+  owner_name: Romain Paillard
+  picture: images/card-london.jpeg
+  owner_picture: images/romain.jpeg
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+  description: A wonderful 1 bedroom apartment situated in this modern block. The property offers ample storage, large lounge, modern fully fitted kitchen, spacious bedroom and a bathroom with power shower.
+  Accommodates: 2
+  Bathrooms:  1
+  Bed_type: Real bed
+  Bedrooms: 1
+  Beds: 1
+  Property_type: Apartement
+  Room_type: Entire home/apt
+anne:
+  owner_name: Anne XXX
+  picture: images/card-brussels.jpeg
+  owner_picture: images/anne.jpg
+  name: Anne's home
+  summary: Lovely house
+  city: Brussels, BE
+  wifi: false
+  description: Tour et taxis - appartement spacieux et lumineux de 100m2, comprend un double séjour & salle à manger, cuisine semi- équipée, 2 chambres, salle de bain, buanderie, grande terrasse plein sud. Parquet partout. Porte blindée.
+  Accommodates: 6
+  Bathrooms:  2
+  Bed_type: Real bed
+  Bedrooms: 3
+  Beds: 3
+  Property_type: house
+  Room_type: Entire home/apt
+karine:
+  owner_name: Karine XXX
+  picture: images/card-barcelona.jpg
+  owner_picture: images/karine.jpeg
+  name: Karine's home
+  summary: Lovely flat in la ramblas
+  city: Bacelona, SP
+  wifi: true
+  description: With rooftop pool, free Wi-Fi and stylish, affordable rooms, this hotel and...
+  Accommodates: 4
+  Bathrooms:  1
+  Bed_type: Real bed
+  Bedrooms: 2
+  Beds: 2
+  Property_type: Apartement
+  Room_type: Entire home/apt
+julien:
+  owner_name: Julien Pageaud
+  picture: images/julien1.jpg
+  owner_picture: images/julien.jpg
+  name: Julien's home
+  summary: Lovely flat west london
+  city: London, UK
+  wifi: true
+  description: A fabulous brand newly refurbished one bedroom maisonette situated in this quiet street close to Notting Hill and Hyde Park.
+  Accommodates: 4
+  Bathrooms:  2
+  Bed_type: Real bed
+  Bedrooms: 2
+  Beds: 2
+  Property_type: Apartement
+  Room_type: Entire home/apt
+Edouard:
+  owner_name: Edouard Carak
+  picture: images/london-houses.jpg
+  owner_picture: images/edouard.jpg
+  name: Carak's home
+  summary: Lovely house in angel / london
+  city: London, UK
+  wifi: true
+  description: A brand newly built house offered to the market for an immediate move in. Just a stones throw away from Charlton station and the new Stone Lake retail park offering an array of shops and amenities. Offered furnished and available now.
+  Accommodates: 8
+  Bathrooms: 3
+  Bed_type: Real bed
+  Bedrooms: 5
+  Beds: 5
+  Property_type: house
+  Room_type: Entire home/apt
+
